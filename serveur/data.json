@@ -1,18 +1,18 @@
 [
     {
-      "title": "Article 1",
-      "description": "Description de l'article 1",
-      "author": "Auteur 1"
+      "title": "League of Legends",
+      "description": " League of Legends (dit « LoL ») est un « free-to-play », c’est-à-dire un jeu en ligne entièrement gratuit disponible sur PC et Mac, développé par l’éditeur Riot Games. Deux équipes de 5 joueurs (nommés « invocateurs ») incarnant des personnages différents s’affrontent dans une arène découpée en 3 chemins principaux séparés par une jungle, dans le but d’aller détruire le bâtiment principal adverse. Chaque partie dure entre 20 et 45 minutes, et nécessite de communiquer au mieux avec son équipe pour élaborer des stratégies en temps réel et remporter la victoire. Profitant de l’essor fulgurant de l’e-sport, le jeu a rencontré un succès phénoménal, de sorte qu’aujourd’hui plus de 70 millions de personnes dans le monde ont ouvert un compte sur League of Legends.",
+      "author": "moi"
     },
     {
-      "title": "Article 2",
-      "description": "Description de l'article 2",
-      "author": "Auteur 2"
+      "title": "Kobe bryant",
+      "description": "Il est considéré comme l'un des meilleurs joueurs de basket-ball de tous les temps.",
+      "author": "moi aussi"
     },
     {
-      "title": "Article 3",
-      "description": "Description de l'article 3",
-      "author": "Auteur 3"
+      "title": "python",
+      "description": "Python est un langage de programmation informatique généraliste. Contrairement à HTML, CSS ou JavaScript, son usage n'est donc pas limité au développement web. Il peut être utilisé pour tout type de programmation et de développement logiciel.",
+      "author": "pas moi"
     }
   ]
   
